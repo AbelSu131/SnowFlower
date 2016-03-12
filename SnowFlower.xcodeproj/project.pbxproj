@@ -13,6 +13,8 @@
 		BCFB876E1C93ECDC00D3246F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BCFB876C1C93ECDC00D3246F /* Main.storyboard */; };
 		BCFB87701C93ECDC00D3246F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BCFB876F1C93ECDC00D3246F /* Assets.xcassets */; };
 		BCFB87731C93ECDC00D3246F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BCFB87711C93ECDC00D3246F /* LaunchScreen.storyboard */; };
+		BCFB877C1C93ECF500D3246F /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BCFB877A1C93ECF500D3246F /* 1.jpg */; };
+		BCFB877D1C93ECF500D3246F /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = BCFB877B1C93ECF500D3246F /* 2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		BCFB876F1C93ECDC00D3246F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BCFB87721C93ECDC00D3246F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BCFB87741C93ECDC00D3246F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BCFB877A1C93ECF500D3246F /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		BCFB877B1C93ECF500D3246F /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +69,6 @@
 				BCFB876C1C93ECDC00D3246F /* Main.storyboard */,
 				BCFB876F1C93ECDC00D3246F /* Assets.xcassets */,
 				BCFB87711C93ECDC00D3246F /* LaunchScreen.storyboard */,
-				BCFB87741C93ECDC00D3246F /* Info.plist */,
 				BCFB87631C93ECDC00D3246F /* Supporting Files */,
 			);
 			path = SnowFlower;
@@ -74,6 +77,9 @@
 		BCFB87631C93ECDC00D3246F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				BCFB877A1C93ECF500D3246F /* 1.jpg */,
+				BCFB877B1C93ECF500D3246F /* 2.png */,
+				BCFB87741C93ECDC00D3246F /* Info.plist */,
 				BCFB87641C93ECDC00D3246F /* main.m */,
 			);
 			name = "Supporting Files";
@@ -137,6 +143,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				BCFB87731C93ECDC00D3246F /* LaunchScreen.storyboard in Resources */,
+				BCFB877C1C93ECF500D3246F /* 1.jpg in Resources */,
+				BCFB877D1C93ECF500D3246F /* 2.png in Resources */,
 				BCFB87701C93ECDC00D3246F /* Assets.xcassets in Resources */,
 				BCFB876E1C93ECDC00D3246F /* Main.storyboard in Resources */,
 			);
